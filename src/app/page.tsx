@@ -19,7 +19,7 @@ export default function Home() {
         />
       </div>
       <h2 className={inter.className}>
-        This is example of Applying CI/CD pipeline into EC2 instance AWS with NextJS project
+        This is an example of Applying CI/CD pipeline into EC2 instance AWS with NextJS project
       </h2>
 
       <div className={styles.center}>
