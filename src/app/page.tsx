@@ -19,7 +19,7 @@ export default function Home() {
         />
       </div>
       <h2 className={inter.className}>
-        furuCRM hello world
+        furuCRM hello world - first
       </h2>
 
       <div className={styles.center}>
