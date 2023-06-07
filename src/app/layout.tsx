@@ -12,7 +12,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body><p>This is a test tag!</p>{children}</body>
+      <body><p></p>{children}</body>
     </html>
   )
 }
