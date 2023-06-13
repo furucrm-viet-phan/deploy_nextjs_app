@@ -19,7 +19,7 @@ export default function Home() {
         />
       </div>
       <h2 className={inter.className}>
-        furuCRM - Test setting and applying CI/CD Pipeline for a Next.JS app using AWS
+        furuCRM - Test setting and applying CI/CD Pipeline for a Next.JS app using AWSàdsf
       </h2>
 
       <div className={styles.center}>
